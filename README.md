@@ -2,9 +2,11 @@
 
 # Neros0
 
-### Smart Contract Security Researcher & Full-Stack Web3 Builder
+### Software Developer & AI Consultant
 
-_I like to BUILD on Web3._
+**Full-stack product engineering · AI agents & automation · Web3 systems & security**
+
+_I like to BUILD — onchain and off._
 
 [![X](https://img.shields.io/badge/-@Neros0_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Neros0_)
 [![Telegram](https://img.shields.io/badge/-@Neros0x-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Neros0x)
@@ -16,7 +18,7 @@ _I like to BUILD on Web3._
 
 ### About
 
-Independent smart contract auditor and full-stack Web3 developer. I conduct security reviews and bug bounty research across EVM chains while building and shipping production-grade dApps, bots, on-chain tools, and autonomous systems.
+Independent software developer and AI consultant who designs, builds, and ships production systems across Web2, AI automation, and Web3. I work end to end from architecture and implementation through testing, deployment, and handoff. Use AI-assisted development as a force multiplier while retaining ownership of engineering judgment, validation, security, and product quality.
 
 ---
 
@@ -35,11 +37,13 @@ End-to-end Web3 products:
 - On-chain tooling that reads, parses, and reacts to blockchain state  
 - Integrated applications combining contracts, back-end, and intuitive UIs  
 
-### AI & Automation
+### AI, Agents & Automation
 
-- Local LLMs (Ollama) for private, on-device intelligence  
-- Autonomous agent systems for workflow automation and real-time operations  
-- LLM integration into dApps and on-chain infrastructure  
+- Build with Codex, Claude Code, Hermes Agent, OpenClaw, and other agentic development tools  
+- Design autonomous and multi-agent systems for research, monitoring, validation, and workflow automation  
+- Run local models with Ollama for private, on-device inference and experimentation  
+- Integrate LLMs into web applications, developer tooling, and onchain infrastructure  
+- Build project knowledge systems in Obsidian to preserve context, research, and reusable workflows  
 
 ---
 
@@ -82,10 +86,14 @@ Actively engaged across EVM ecosystems with consistent involvement in Solana and
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
-**AI & Automation**
+**AI, Agents & Knowledge Systems**
 <p>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-5B4BDB?style=for-the-badge&logoColor=white" alt="Hermes Agent" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/OpenClaw-FF4D14?style=for-the-badge&logoColor=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
 
 **Web3 Libraries**
@@ -110,15 +118,18 @@ Actively engaged across EVM ecosystems with consistent involvement in Solana and
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neros0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neros0&layout=compact&hide_border=true&theme=tokyonight&hide=html,css&langs_count=6" height="165" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Neros0&layout=compact&hide_border=true&theme=tokyonight&hide=html,css&langs_count=6"
+    height="165"
+    alt="Neros0 top languages"
+  />
 </p>
 
 ---
 
 ### Connect
 
-Open to audit engagements, technical collaborations, and high-impact Web3 builds. Reach out if you're shipping infrastructure or protocols that matter on-chain.
+Open to software engineering opportunities, select client engagements, and technical collaborations across product development, AI automation, Web3 infrastructure, and smart-contract security.
 
 - 🐦 [X — @Neros0_](https://x.com/Neros0_)
 - 💬 [Telegram — @Neros0x](https://t.me/Neros0x)
@@ -126,5 +137,5 @@ Open to audit engagements, technical collaborations, and high-impact Web3 builds
 ---
 
 <div align="center">
-<sub>Building secure, production-grade Web3 systems with precision and depth.</sub>
+<sub>Build useful systems. Validate them rigorously. Own the outcome.</sub>
 </div>
