@@ -1,6 +1,6 @@
 <div align="center">
 
-# Neros0
+# RevTheDev
 
 ### Software Developer & AI Consultant
 
@@ -8,8 +8,6 @@
 
 _I like to BUILD — onchain and off._
 
-[![X](https://img.shields.io/badge/-@Neros0_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Neros0_)
-[![Telegram](https://img.shields.io/badge/-@Neros0x-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Neros0x)
 ![Status](https://img.shields.io/badge/Status-Open_for_audits_%26_collabs-2ea44f?style=flat-square)
 
 </div>
@@ -119,20 +117,11 @@ Actively engaged across EVM ecosystems with consistent involvement in Solana and
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Neros0&layout=compact&hide_border=true&theme=tokyonight&hide=html,css&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevanTheDev&layout=compact&hide_border=true&theme=tokyonight&hide=html,css&langs_count=6"
     height="165"
-    alt="Neros0 top languages"
+    alt="RevanTheDev top languages"
   />
 </p>
-
----
-
-### Connect
-
-Open to software engineering opportunities, select client engagements, and technical collaborations across product development, AI automation, Web3 infrastructure, and smart-contract security.
-
-- 🐦 [X — @Neros0_](https://x.com/Neros0_)
-- 💬 [Telegram — @Neros0x](https://t.me/Neros0x)
 
 ---
 
